@@ -1,0 +1,11 @@
+Binaries
+DerivedDataCache
+Intermediate
+Saved
+.svn
+.vs
+Build
+Script
+*.rar
+*.zip
+*.7z
